@@ -4,7 +4,7 @@ AugMode - Augment OrgMode with a Wicci
 What Is AugMode
 ---------------
 
-AugMode is an Augmented Collaborative [OrgMode ](http://orgmode.org/) served by a [Wicci System](https://gregdavidson.github.io/wicci-core-S0_lib/) accessible from any Web Server. AugMode is designed to be usable from Mobile Browsers without a physical keyboard.
+AugMode is an Augmented Collaborative [OrgMode](http://orgmode.org/) served by a [Wicci System](https://gregdavidson.github.io/wicci-core-S0_lib/) accessible from any Web Server. AugMode is designed to be usable from Mobile Browsers without a physical keyboard.
 
 The Conception of AugMode is brand new. The project to create AugMode is in the [Inception Phase](https://en.wikipedia.org/wiki/Unified_Process#Inception_phase).
 
@@ -12,7 +12,7 @@ Things to Do
 ------------
 
 -   Flesh out the *Roadmap* and *Implementation Strategies* Sections below
--   Shake down the Wicci with the latest PostgreSQL and Shim
+-   Shake down [the Wicci](https://gregdavidson.github.io/wicci-core-S0_lib/) with the latest [PostgreSQL](https://www.postgresql.org/) and [Shim](https://github.com/GregDavidson/wicci-shim-rust)
 -   Implement the first version of *The Prototype*
 
 Motivation
@@ -29,11 +29,11 @@ We want a life and project information system which is
 
 We are inspired by
 
--   Douglas Englebart
--   Augment
--   OrgMode
--   The Tiki Wiki
--   The Wicci
+-   [Douglas Englebart](https://en.wikipedia.org/wiki/Douglas_Engelbart)
+-   [Augment, the oN-Line System](https://en.wikipedia.org/wiki/The_Mother_of_All_Demos)
+-   [OrgMode](http://orgmode.org/)
+-   [The Tiki Wiki](https://tiki.org/tiki-index.ph)
+-   [The Wicci System](https://gregdavidson.github.io/wicci-core-S0_lib/)
 -   Knowedge Representation Systems
 
 #### Douglas Englebart's Vision and Augment
@@ -89,7 +89,7 @@ Great framework for implementing what we want.
 
 What we want has not yet been implemented with the Wicci.
 
-#### Knowedge Representation Systems, e.g. the Flora2 DOOD
+#### [Knowedge Representation Systems](https://en.wikipedia.org/wiki/Knowledge_representation_and_reasoning), e.g. the [Flora2](http://flora.sourceforge.net/) DOOD
 
 ##### Features
 
@@ -129,11 +129,11 @@ Implementation Strategies
 
 ### Useful External Tools and Frameworks
 
--   Git
--   Pandoc
--   XSLTproc
--   PostgreSQL
--   The Wicci System
+-   [Git](https://git-scm.com/)
+-   [Pandoc](http://pandoc.org/)
+-   [XSLTproc](http://xmlsoft.org/XSLT/xsltproc.html)
+-   [PostgreSQL](https://www.postgresql.org/)
+-   [The Wicci System](https://gregdavidson.github.io/wicci-core-S0_lib/)
 
 ### The Prototype
 

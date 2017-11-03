@@ -1,6 +1,6 @@
 * AugMode - Augment OrgMode with a Wicci
 ** What Is AugMode
-AugMode is an Augmented Collaborative [[http://orgmode.org/][OrgMode ]] served by a
+AugMode is an Augmented Collaborative [[http://orgmode.org/][OrgMode]] served by a
 [[https://gregdavidson.github.io/wicci-core-S0_lib/][Wicci System]] accessible from any Web Server.  AugMode is
 designed to be usable from Mobile Browsers without a
 physical keyboard.
@@ -9,7 +9,7 @@ The Conception of AugMode is brand new.  The project to
 create AugMode is in the [[https://en.wikipedia.org/wiki/Unified_Process#Inception_phase][Inception Phase]].
 ** Things to Do
 - Flesh out the [[Roadmap]] and [[Implementation Strategies]] Sections below
-- Shake down the Wicci with the latest PostgreSQL and Shim
+- Shake down [[https://gregdavidson.github.io/wicci-core-S0_lib/][the Wicci]] with the latest [[https://www.postgresql.org/][PostgreSQL]] and [[https://github.com/GregDavidson/wicci-shim-rust][Shim]]
 - Implement the first version of [[The Prototype]]
 ** Motivation
 We want a life and project information system which is
@@ -19,11 +19,11 @@ We want a life and project information system which is
 - secure
 *** Intelligent
 We are inspired by
-- Douglas Englebart
-- Augment
-- OrgMode
-- The Tiki Wiki
-- The Wicci
+- [[https://en.wikipedia.org/wiki/Douglas_Engelbart][Douglas Englebart]]
+- [[https://en.wikipedia.org/wiki/The_Mother_of_All_Demos][Augment, the oN-Line System]]
+- [[http://orgmode.org/][OrgMode]]
+- [[https://tiki.org/tiki-index.ph][The Tiki Wiki]]
+- [[https://gregdavidson.github.io/wicci-core-S0_lib/][The Wicci System]]
 - Knowedge Representation Systems
 **** Douglas Englebart's Vision and Augment
 Douglas Englebart was the first person to envision and build
@@ -61,7 +61,7 @@ Great framework for implementing what we want.
 
 ***** Drawbacks
 What we want has not yet been implemented with the Wicci.
-**** Knowedge Representation Systems, e.g. the Flora2 DOOD
+**** [[https://en.wikipedia.org/wiki/Knowledge_representation_and_reasoning][Knowedge Representation Systems]], e.g. the [[http://flora.sourceforge.net/][Flora2]] DOOD
 ***** Features
 Deductive Object Oriented Database.
 Most intelligent and flexible way to represent information
@@ -94,11 +94,11 @@ The implementation sequence could go as follows (a web interface is assumed):
 - All Wicci Features
 ** Implementation Strategies
 *** Useful External Tools and Frameworks
-- Git
-- Pandoc
-- XSLTproc
-- PostgreSQL
-- The Wicci System
+- [[https://git-scm.com/][Git]]
+- [[http://pandoc.org/][Pandoc]]
+- [[http://xmlsoft.org/XSLT/xsltproc.html][XSLTproc]]
+- [[https://www.postgresql.org/][PostgreSQL]]
+- [[https://gregdavidson.github.io/wicci-core-S0_lib/][The Wicci System]]
 *** The Prototype
 The prototype would consist of
 - A Git Repository of OrgMode documents

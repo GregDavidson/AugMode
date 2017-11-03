@@ -1,6 +1,20 @@
 AugMode - Augment OrgMode with a Wicci
 ======================================
 
+What Is AugMode
+---------------
+
+AugMode is an Augmented Collaborative [OrgMode ](http://orgmode.org/) served by a [Wicci System](https://gregdavidson.github.io/wicci-core-S0_lib/) accessible from any Web Server. AugMode is designed to be usable from Mobile Browsers without a physical keyboard.
+
+The Conception of AugMode is brand new. The project to create AugMode is in the [Inception Phase](https://en.wikipedia.org/wiki/Unified_Process#Inception_phase).
+
+Things to Do
+------------
+
+-   Flesh out the *Roadmap* and *Implementation Strategies* Sections below
+-   Shake down the Wicci with the latest PostgreSQL and Shim
+-   Implement the first version of *The Prototype*
+
 Motivation
 ----------
 
